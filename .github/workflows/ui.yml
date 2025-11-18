@@ -17,12 +17,6 @@ jobs:
         with:
           node-version: lts/*
 
-      - name: Install OpenJDK
-        run: |
-          apt-get update
-          apt-get install -y openjdk-17-jre
-          echo "JAVA_HOME=$(dirname $(dirname $(readlink -f $(which java))))" >> $GITHUB_ENV
-
       # Install dependencies
       - name: Install dependencies
         run: npm ci
