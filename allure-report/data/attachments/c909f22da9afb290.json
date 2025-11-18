@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MDkxY2M1MWM1MDhjNWQ1ZTk1MTE5ZSIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzYzNDg4MjAyLCJleHAiOjE3NjM1NzQ2MDJ9.LHZ4rTHHLQ_FIZ0Tgqazch0nQE6gjd3z61itZiI8I6s"
+  },
+  "body": {
+    "name": "Computer97572",
+    "amount": 75,
+    "price": 25739,
+    "manufacturer": "Xiaomi",
+    "notes": "fywCNwaNEZvpVS2g7YX6m2Co3aLpoh4DXjCFlfL3gTDSqUXGWHWcmEAhIifxlPVARd0tyh75MxzsVVmFus1jkcXgvlwiZNOwXRFSTj4w14MlYmDMrrkg3NidFRpSLMSiFNgxpKFU12SwzSZGV021FNA2O9utdStlec3KZ6iqyie7n2gjFIMeRumr4c4o6NV7xOrNAr8UECuWC2hl40QJ7bwkxsYxJR6Kk1NEwLQSdmPANnedv9KcP3BECO"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Tue, 18 Nov 2025 19:19:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MDkxY2M1MWM1MDhjNWQ1ZTk1MTE5ZSIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzYzNDg4MjAyLCJleHAiOjE3NjM1NzQ2MDJ9.LHZ4rTHHLQ_FIZ0Tgqazch0nQE6gjd3z61itZiI8I6s",
+    "x-user-name": "Anatoly",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "204",
+    "etag": "W/\"cc-Fp4D6XnAv3YK6DNzeBYXCvxiTbw\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": true,
+    "ErrorMessage": null,
+    "User": {
+      "_id": "69091cc51c508c5d5e95119e",
+      "username": "test@gmail.com",
+      "firstName": "Anatoly",
+      "lastName": "Karpovich",
+      "roles": [
+        "USER"
+      ],
+      "createdOn": "2025/11/03 21:21:09"
+    }
+  }
+}

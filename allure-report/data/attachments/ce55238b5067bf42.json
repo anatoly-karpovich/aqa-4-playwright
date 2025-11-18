@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MDkxY2M1MWM1MDhjNWQ1ZTk1MTE5ZSIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzYzNDg4MjAyLCJleHAiOjE3NjM1NzQ2MDJ9.LHZ4rTHHLQ_FIZ0Tgqazch0nQE6gjd3z61itZiI8I6s"
+  },
+  "body": {
+    "name": "Gloves81088",
+    "amount": 633,
+    "price": 88722,
+    "manufacturer": "Samsung",
+    "notes": "dTmBcQQlgJmwr4vHktsU51WLi1Zpp5dy8ftZ5GmJcoBoN9aQ1tobjE7AasYts1fw180WPe7O6VHNNnHHX2mkDW0c7ZL7NFxaiCoQeNUbPMDpc7bjkrdzxHWQcdqkc5dfk1UG9y6AoNCAIGmWaEQxY9w3YnElrhO6HRVHleVrCRDfQCKrG9XseMx7mnaIATCLarW6fkgbMqKW0UwxrWLnvkqjEMULD7CaSsfGoILKNUI3XBWcqw9QvFxznk"
+  }
+}

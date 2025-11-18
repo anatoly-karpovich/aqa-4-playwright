@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 18 Nov 2025 19:19:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-qKE9E9k6YsPHnVlREwyNU6WPE6U\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair9756",
+      "amount": 447,
+      "price": 31256,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-11-18T19:19:41.000Z",
+      "notes": "UmCQmhNMHZmfYlQTPM6Pr36eyfTGaZyiEbtxKQH0DWSMvSjs9u8QMj814bB14vmHirgFutRY7BTgPWWl3ONu2unFvRLJa59rx8TWexDkyejY2Snb2nC3FEnoD8opMRYagYigXD3auMtQRQkaTNbMbZzddbh9qBDGdcO9qFct2Ekh6MDPt08zFAQoPYuYE5gTQLgbQso8B6yZOcYhzZRpBWPnv8WFiwFzXkv1MBAMSQNiv4rrlExLnJwwCT",
+      "_id": "691cc6cd1c508c5d5e952424"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

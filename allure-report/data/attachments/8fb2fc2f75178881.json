@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 18 Nov 2025 19:19:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-MrjAIcCtWOiwnz4QfjkXDTWDbTw\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer97572",
+      "amount": 75,
+      "price": 25739,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-11-18T19:19:41.000Z",
+      "notes": "fywCNwaNEZvpVS2g7YX6m2Co3aLpoh4DXjCFlfL3gTDSqUXGWHWcmEAhIifxlPVARd0tyh75MxzsVVmFus1jkcXgvlwiZNOwXRFSTj4w14MlYmDMrrkg3NidFRpSLMSiFNgxpKFU12SwzSZGV021FNA2O9utdStlec3KZ6iqyie7n2gjFIMeRumr4c4o6NV7xOrNAr8UECuWC2hl40QJ7bwkxsYxJR6Kk1NEwLQSdmPANnedv9KcP3BECO",
+      "_id": "691cc6cd1c508c5d5e95241f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
