@@ -1,10 +1,10 @@
 name: Run Sales Portal UI tests
 on:
   workflow_dispatch: # Manually trigger the workflow
-  push:
-    branches:
-      - main
-  pull_request:
+  # push:
+  #   branches:
+  #     - main
+  # pull_request:
 
   schedule:
     - cron: "0 22 * * *" # 00:00 GMT+2 (22:00 UTC)
