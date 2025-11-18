@@ -14,8 +14,8 @@ test("Login as Admin via API", async ({ page, loginApiService }) => {
     {
       name: "Authorization",
       value: token,
-      domain: "localhost",
-      path: "/",
+      domain: process.env.ENV === "local" ? "localhost" : "anatoly-karpovich.github.io",
+      path: process.env.ENV === "local" ? "/" : "/aqa-course-project",
       expires: -1,
       httpOnly: false,
       secure: false,
