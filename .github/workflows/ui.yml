@@ -1,8 +1,10 @@
 name: Run Sales Portal UI tests
 on:
   workflow_dispatch: # Manually trigger the workflow
-    pull_request:
-    branches: [main]
+  push:
+    branches:
+      - main
+  pull_request:
 
 jobs:
   test:
