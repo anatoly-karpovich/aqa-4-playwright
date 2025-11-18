@@ -1,7 +1,7 @@
 import { defineConfig, devices } from "@playwright/test";
-import dotenv from "dotenv";
+import { loadEnv } from "utils/env/loadEnv.utils";
 
-dotenv.config();
+loadEnv();
 
 /**
  * Read environment variables from file.
@@ -67,6 +67,13 @@ export default defineConfig({
       },
       dependencies: ["setup"],
       testDir: "src/tests/ui/sales-portal",
+    },
+    {
+      name: "sales-portal-api",
+      use: {
+        ...devices["Desktop Chrome"],
+      },
+      testDir: "src/tests/api",
     },
     {
       name: "chromium",
