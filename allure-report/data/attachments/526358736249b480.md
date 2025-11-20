@@ -1,0 +1,72 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - img
+        - generic [ref=e7]: Sales Portal
+      - link "Home" [ref=e9] [cursor=pointer]:
+        - /url: "#/home"
+      - link "Orders" [ref=e11] [cursor=pointer]:
+        - /url: "#/orders"
+      - link "Products" [ref=e13] [cursor=pointer]:
+        - /url: "#/products"
+      - link "Customers" [ref=e15] [cursor=pointer]:
+        - /url: "#/customers"
+      - link "Managers" [ref=e17] [cursor=pointer]:
+        - /url: "#/managers"
+    - generic [ref=e19]:
+      - button "" [ref=e21] [cursor=pointer]:
+        - generic: 
+      - button "" [ref=e22] [cursor=pointer]:
+        - generic: 
+      - link "User" [ref=e24] [cursor=pointer]:
+        - /url: "#/managers/undefined"
+        - strong [ref=e25] [cursor=pointer]: User
+      - button "" [ref=e26] [cursor=pointer]:
+        - generic: 
+  - generic [ref=e27]:
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - heading "Products List" [level=2] [ref=e31]
+        - link "+ Add Product" [ref=e32] [cursor=pointer]:
+          - /url: "#/products/add"
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - searchbox "Search" [ref=e35]
+          - button " Search" [disabled]:
+            - generic: 
+            - text: Search
+        - button " Filter" [ref=e36] [cursor=pointer]:
+          - generic: 
+          - text: Filter
+        - button "Export" [ref=e37] [cursor=pointer]
+    - generic [ref=e40]:
+      - table [ref=e42]:
+        - rowgroup [ref=e43]:
+          - row "Name Price Manufacturer Created On Actions" [ref=e44]:
+            - columnheader "Name" [ref=e45]
+            - columnheader "Price" [ref=e46]
+            - columnheader "Manufacturer" [ref=e47]
+            - columnheader "Created On" [ref=e48]
+            - columnheader "Actions" [ref=e49]
+        - rowgroup [ref=e50]:
+          - row "No records created yet" [ref=e51]:
+            - cell "No records created yet" [ref=e52]
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - generic [ref=e55]: "Items on page:"
+          - combobox [ref=e56]:
+            - option "10" [selected]
+            - option "25"
+            - option "50"
+            - option "100"
+        - generic [ref=e57]:
+          - button "" [disabled]:
+            - generic: 
+          - button "1" [ref=e58] [cursor=pointer]
+          - button "" [disabled]:
+            - generic: 
+```
