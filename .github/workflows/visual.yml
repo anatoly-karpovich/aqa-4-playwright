@@ -1,9 +1,9 @@
 name: Run Sales Portal Visual Regression tests
 on:
-  push:
-    branches:
-      - main
-  pull_request:
+  # push:
+  #   branches:
+  #     - main
+  # pull_request:
 
   workflow_dispatch: # Manually trigger the workflow
 
