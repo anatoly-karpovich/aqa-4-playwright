@@ -39,6 +39,22 @@ export default defineConfig({
         },
       },
     ],
+    [
+      "playwright-qase-reporter",
+      {
+        testops: {
+          api: {
+            token: "7bc6431101d2f0c9b7e4a8e1536524e1f09b168db9eb4355384347aea555b18d",
+          },
+          project: "AP",
+          uploadAttachments: true,
+          run: {
+            complete: true,
+            title: "Playwright Test Run" + new Date().toISOString(),
+          },
+        },
+      },
+    ],
   ],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
