@@ -6,3 +6,9 @@ node_modules
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+.env
+.env.prod
+.env.local
+allure-results
+allure-report
+/src/.auth
