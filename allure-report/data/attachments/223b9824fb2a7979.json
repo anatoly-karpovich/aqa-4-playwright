@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MDkxY2M1MWM1MDhjNWQ1ZTk1MTE5ZSIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzYzNjU4OTM1LCJleHAiOjE3NjM3NDUzMzV9.WmU6GdE0pNgOPUDbBtWVxDfJVwhKEkiXnak_JY8Nx2E"
+  },
+  "body": {
+    "name": "Ball60513",
+    "amount": 305,
+    "price": 13920,
+    "manufacturer": "Xiaomi",
+    "notes": "NMZq72Fu3C36p2oWmwDQeZyAdDDgpQiq54PlRActG2NG0pscKa8QEu0UaNpPk0RqD7uuQFDy091OedMVjUK1ReD1yeyFhnEiGVfDfv69BTdkaJdfcxwWjuqGl2VS1MYGCk5co14NV1rNRMJQjKZoHBAyTayfkEV721WIpfXBV3YWQDLQuT8aRUWnKNwspynIQLaueeeLv1iKyr9zfT1mPu3M3G8C3GpzxpiSICy9VevKoLOMJ5DdhrCklf"
+  }
+}

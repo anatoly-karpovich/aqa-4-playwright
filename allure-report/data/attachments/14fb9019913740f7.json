@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 20 Nov 2025 19:24:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-g34t9ZpAxfYLj8PnuLL5D3qvd54\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball60513",
+      "amount": 305,
+      "price": 13920,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-11-20T19:24:35.000Z",
+      "notes": "NMZq72Fu3C36p2oWmwDQeZyAdDDgpQiq54PlRActG2NG0pscKa8QEu0UaNpPk0RqD7uuQFDy091OedMVjUK1ReD1yeyFhnEiGVfDfv69BTdkaJdfcxwWjuqGl2VS1MYGCk5co14NV1rNRMJQjKZoHBAyTayfkEV721WIpfXBV3YWQDLQuT8aRUWnKNwspynIQLaueeeLv1iKyr9zfT1mPu3M3G8C3GpzxpiSICy9VevKoLOMJ5DdhrCklf",
+      "_id": "691f6af31c508c5d5e952e4c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

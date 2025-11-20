@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 20 Nov 2025 19:24:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-1W4crv5cTZU+iQ5tCGIjkT29T6Q\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna47230",
+      "amount": 656,
+      "price": 35057,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-11-20T19:24:35.000Z",
+      "notes": "AlZvkWZqtpHouPz8Hq7VMtZ04fT45Zt7pZtGNqTtGrijwpQwikmUzp98DgaG6zxaeZoQ5avvt59P35uqycUdZDJNqqY4VXwvZi8JtQK1HoWkXGC8Bhx22HkqyyCvqQ3qRx6KXgBUwzDJDOTNHqgkG5IRZDrP4bSUdyKPeSiUxfNq7f5bBcQG8wz7Ot7mtkUXl5ENsJgqdRm7Oo4Jmag7C0Aozn4ekfBlHUe7HqPx9O3eUBsYLqxzUfESeZ",
+      "_id": "691f6af31c508c5d5e952e4a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

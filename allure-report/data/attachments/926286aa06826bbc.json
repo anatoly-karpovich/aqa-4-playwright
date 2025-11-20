@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MDkxY2M1MWM1MDhjNWQ1ZTk1MTE5ZSIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzYzNjU4OTM1LCJleHAiOjE3NjM3NDUzMzV9.WmU6GdE0pNgOPUDbBtWVxDfJVwhKEkiXnak_JY8Nx2E"
+  },
+  "body": {
+    "name": "Tuna47230",
+    "amount": 656,
+    "price": 35057,
+    "manufacturer": "Xiaomi",
+    "notes": "AlZvkWZqtpHouPz8Hq7VMtZ04fT45Zt7pZtGNqTtGrijwpQwikmUzp98DgaG6zxaeZoQ5avvt59P35uqycUdZDJNqqY4VXwvZi8JtQK1HoWkXGC8Bhx22HkqyyCvqQ3qRx6KXgBUwzDJDOTNHqgkG5IRZDrP4bSUdyKPeSiUxfNq7f5bBcQG8wz7Ot7mtkUXl5ENsJgqdRm7Oo4Jmag7C0Aozn4ekfBlHUe7HqPx9O3eUBsYLqxzUfESeZ"
+  }
+}
