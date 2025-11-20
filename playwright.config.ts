@@ -51,7 +51,7 @@ export default defineConfig({
   },
   expect: {
     toHaveScreenshot: {
-      pathTemplate: "{testDir}/__screenshots__{/projectName}/{testFilePath}/{arg}{ext}",
+      // pathTemplate: "{testDir}/__screenshots__{/projectName}/{testFilePath}/{arg}{ext}",
     },
   },
 
