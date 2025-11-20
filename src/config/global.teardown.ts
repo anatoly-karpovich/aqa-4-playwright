@@ -2,7 +2,7 @@ import { NotificationService } from "utils/notifications/notifications.service";
 import { TelegramService } from "utils/notifications/telegram.service";
 
 export default async function () {
-  if (process.env.CI) return;
+  if (!process.env.CI) return;
 
   const notificationService = new NotificationService(new TelegramService());
 
