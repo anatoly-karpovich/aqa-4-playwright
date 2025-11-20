@@ -42,7 +42,7 @@
           - paragraph [ref=e33]: Test notes
       - generic [ref=e34]:
         - link "Edit Product" [ref=e35] [cursor=pointer]:
-          - /url: "#/products/691f5f3f984066b8f56c434a/edit"
+          - /url: "#/products/691f618e0536a34b679a2e19/edit"
         - button "Cancel" [ref=e36] [cursor=pointer]
   - generic [ref=e38]:
     - banner [ref=e39]:
@@ -112,7 +112,7 @@
                 - button "" [ref=e101] [cursor=pointer]:
                   - generic: 
                 - link "" [ref=e102] [cursor=pointer]:
-                  - /url: "#/products/691f5f3f984066b8f56c434a/edit"
+                  - /url: "#/products/691f618e0536a34b679a2e19/edit"
                   - generic: 
                 - button "" [ref=e103] [cursor=pointer]:
                   - generic: 
