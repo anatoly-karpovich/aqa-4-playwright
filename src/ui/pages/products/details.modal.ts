@@ -3,7 +3,7 @@ import { SalesPortalPage } from "../salesPortal.page";
 import { MANUFACTURERS } from "data/salesPortal/products/manufacturers";
 
 export class ProductDetailsModal extends SalesPortalPage {
-  readonly uniqueElement = this.page.locator("#ProductDetailsModal");
+  readonly uniqueElement = this.page.locator("#details-modal-container");
 
   readonly title = this.uniqueElement.locator("h5");
   readonly closeButton = this.uniqueElement.locator("button.btn-close");

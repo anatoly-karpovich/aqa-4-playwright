@@ -7,6 +7,7 @@
     "test:ui:regression": "npx playwright test --project=sales-portal-ui --grep \"@regression|@smoke\"",
     "test:ui:smoke": "npm run test -- --project=sales-portal-ui --grep @smoke",
     "test:api": "npm run test -- --project=sales-portal-api",
+    "test:visual": "npm run test -- --project=sales-portal-visual",
     "ui-mode": "npx playwright test --ui",
     "html-report-open": "npx playwright show-report",
     "allure-report": "allure generate allure-results -o allure-report --clean",

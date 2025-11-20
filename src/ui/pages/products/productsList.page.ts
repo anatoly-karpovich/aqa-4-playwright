@@ -7,9 +7,10 @@ import { ConfirmationModal } from "../confirmation.modal";
 export class ProductsListPage extends SalesPortalPage {
   readonly detailsModal = new ProductDetailsModal(this.page);
   readonly deleteModal = new ConfirmationModal(this.page);
-
+  readonly headerContainer = this.page.locator("#title");
   readonly productsPageTitle = this.page.locator("h2.fw-bold");
   readonly addNewProductButton = this.page.locator('[name="add-button"]');
+  readonly table = this.page.locator('[data-name="table-products"]');
   readonly tableRow = this.page.locator("tbody tr");
   readonly tableRowByName = (productName: string) =>
     this.page.locator("table tbody tr", { has: this.page.locator("td", { hasText: productName }) });
