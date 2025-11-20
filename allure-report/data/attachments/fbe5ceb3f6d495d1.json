@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MDkxY2M1MWM1MDhjNWQ1ZTk1MTE5ZSIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzYzNjU4OTM1LCJleHAiOjE3NjM3NDUzMzV9.WmU6GdE0pNgOPUDbBtWVxDfJVwhKEkiXnak_JY8Nx2E"
+  },
+  "body": {
+    "name": "Chips16556",
+    "amount": 451,
+    "price": 37265,
+    "manufacturer": "Sony",
+    "notes": "Xd7cEXmdDjP6c3iIqNMtaWYtzC3z1jCB85efEGxi294OLkpPVgnTB6DAakaRoRLPBapnM4TxJttQbgmpOX8niuOGAHZp82Yw6zHGrEF4gq1P5UpPTlGPnuvGqdtTADtBddEDyEerJnM5R2TArp2XUohX5ll89qVliBpd132St9PeVG3pmZ1UHcJDSYYOLw4v5QjplBsSB2CAgK23gJuJ6c8mt3l55iYVNGcadsdwc1kNwpkKdBBVjpMkqp"
+  }
+}

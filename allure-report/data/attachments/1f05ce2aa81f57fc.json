@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MDkxY2M1MWM1MDhjNWQ1ZTk1MTE5ZSIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzYzNjU4OTM1LCJleHAiOjE3NjM3NDUzMzV9.WmU6GdE0pNgOPUDbBtWVxDfJVwhKEkiXnak_JY8Nx2E"
+  },
+  "body": {
+    "name": "Keyboard15735",
+    "amount": 840,
+    "price": 2119,
+    "manufacturer": "Samsung",
+    "notes": "sBd0l4atZ1iwtruA8H9htd4nw92hzR17LFgGBdkCsBQ9DjFX8uTOgEPUNLqb3GsQkw4r62ue78R4HNDOwrii673t22QE5ZokfvtkNQ0dRpb8QnIrUEb3RxFtNq4ceSdys4J93NBBFvpYixbk8jTvRk1jDcttAOyMeESHaBL1U1FSVWshi0fKIPXsIR9uYQVHeeWYv2klEADbkrZPkxnvKlG70TInBR2RbLW9BP1ZvRlzleqggeaqYRGPwt"
+  }
+}
