@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MDkxY2M1MWM1MDhjNWQ1ZTk1MTE5ZSIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzYzNjU4OTM1LCJleHAiOjE3NjM3NDUzMzV9.WmU6GdE0pNgOPUDbBtWVxDfJVwhKEkiXnak_JY8Nx2E"
+  },
+  "body": {
+    "name": "Chips7020",
+    "amount": 540,
+    "price": 1529,
+    "manufacturer": "Amazon",
+    "notes": "5clnDQRG2K12sjeTGnqf7hF0sSkDh93JHyrDin5atZbhGBvNxvpXYUOMl6ZoJ2MaEAkuzv1u8YCrOcHUtChT9T0TcH8OgZ9Q0bMKMficTSQXzB5ByDsD1xr85F86lWYWnaZF34VKAEhiR6cdWuMYQf5pH3BnJ5cyDjkTDNooht4BKIynasiylUP2F8TRZK2LY6DnLDGU1rulTyo466roWblJ9Jec3x5Aza1oBfU0963bZOcoJrCLoDJEzv"
+  }
+}
