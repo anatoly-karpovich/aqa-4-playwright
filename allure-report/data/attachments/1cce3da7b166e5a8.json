@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 20 Nov 2025 18:55:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-z3hClEi3Ks+Agi+lu0oG2qd/Z1M\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike16150",
+      "amount": 509,
+      "price": 65956,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-11-20T18:55:04.000Z",
+      "notes": "hfsl46jTYZds3sMCpOTN7l2vo2sMVUlfGPExcABkGGhrUrQuAbj3UNftaelAzGxdtCy9I0QXM7hNegFyFgxQGRcMQNlNtnE5YzPRc91VF8JQlNORHytTLoe6hqJ6Jf3Y7uZbjYHbSD5YueaYwst8PUxwh0mHvGn4f6LtN4sEChjMxPYVbyGOsPQkwHTTPG8d4mPtP7lgWCq4AWL65Ib5eopYvgQmH1t4jVME7ZnDI4WpNdv878jGwpOulS",
+      "_id": "691f64081c508c5d5e952b81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

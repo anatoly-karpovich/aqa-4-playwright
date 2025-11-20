@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 20 Nov 2025 18:55:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-u1a+3YMFbE6qKfqqOYtRAmaF0dM\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna38721",
+      "amount": 592,
+      "price": 66334,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-11-20T18:55:04.000Z",
+      "notes": "Bn2tpp5ueQCQsOX6Xg3a01iLD5G5wVSrH0h9FqElKMgtpcAGhFFjD9cgTqeWdVDMMmPZtjQwkaFgRvfD2D8roIQiJsXHVvlRJ4AERx1iW3fx20hAddl0zqBG1XfcKYw3U7zhGK0Wbo6AelYMhSsDeOUm0tWX8EockPvTPbav11Gm3lDFozY1bDzXeoWS38gaSjoNprM3TKx3tJR9tks6ksg2HkScYymBYVG9TWdgWvXxcvC5EbgUlqaOSs",
+      "_id": "691f64081c508c5d5e952b84"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
